@@ -11,5 +11,10 @@ public class main {
         System.out.println(gato.emitirSom());
         System.out.println(pato.emitirSom());
         System.out.println(galo.emitirSom());
+        System.out.println(cachorro.comer());
+        System.out.println(gato.comer());
+        System.out.println(pato.comer());
+        System.out.println(galo.comer());
+
     }
 }

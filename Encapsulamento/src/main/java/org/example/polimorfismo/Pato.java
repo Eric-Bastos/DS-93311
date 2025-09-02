@@ -5,4 +5,8 @@ public class Pato implements animal {
     public String emitirSom() {
         return "Quack";
     }
+    @Override
+    public String comer() {
+        return "Ração de pato";
+    }
 }

@@ -6,4 +6,9 @@ public class Cachorro implements animal {
     public String emitirSom() {
         return "Auau";
     }
+
+    @Override
+    public String comer() {
+        return "Ração de cachorro";
+    }
 }

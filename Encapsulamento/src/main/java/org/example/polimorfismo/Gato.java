@@ -5,4 +5,9 @@ public class Gato implements animal {
     public String emitirSom() {
         return "Miau";
     }
+
+    @Override
+    public String comer() {
+        return "Ração de gato";
+    }
 }
