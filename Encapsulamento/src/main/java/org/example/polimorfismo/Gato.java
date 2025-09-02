@@ -8,6 +8,6 @@ public class Gato implements animal {
 
     @Override
     public String comer() {
-        return "Ração de gato";
+        return "O gato come ração de gato";
     }
 }

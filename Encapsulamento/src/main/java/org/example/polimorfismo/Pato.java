@@ -7,6 +7,6 @@ public class Pato implements animal {
     }
     @Override
     public String comer() {
-        return "Ração de pato";
+        return "O pato come ração de pato";
     }
 }

@@ -8,6 +8,6 @@ public class Galo implements animal {
 
     @Override
     public String comer() {
-        return "Ração de galo";
+        return "O galo come milho";
     }
 }
