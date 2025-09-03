@@ -10,9 +10,9 @@ public class Main {
         double a = 10;
         double b = 5;
 
-        System.out.println("Soma: " + soma.calcular(a, b));
-        System.out.println("Subtração: " + subtracao.calcular(a, b));
-        System.out.println("Multiplicação: " + multiplicacao.calcular(a, b));
-        System.out.println("Divisão: " + divisao.calcular(a, b));
+       System.out.println("Soma: " + soma.calcular(a, b));
+       System.out.println("Subtração: " + subtracao.calcular(a, b));
+       System.out.println("Multiplicação: " + multiplicacao.calcular(a, b));
+       System.out.println("Divisão: " + divisao.calcular(a, b));
     }
 }
