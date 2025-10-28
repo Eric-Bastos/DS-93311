@@ -1,0 +1,16 @@
+/*exercicio2\src\componentes\Header\style.css */
+
+header {
+  background-color: #000000;
+  background-image: url('exercicio2/public/images.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: rgb(255, 0, 0);
+  text-align: center;
+  padding: 1rem;
+  font-size: 32px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}

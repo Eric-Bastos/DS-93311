@@ -1,0 +1,51 @@
+/* exercicio2\src\componentes\Home\style.css */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #ff0000;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+
+}
+
+.central{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+}
+
+.container input{
+    display: block;
+    width: 100%;
+    padding: 0.8rem;
+    margin-bottom: 1rem;
+    box-sizing: border-box;   
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons-container {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    width: 100%;
+}
+
+h3{
+    text-align: center;
+}
